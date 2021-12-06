@@ -1,0 +1,6 @@
+framework module TalkableWrapper {
+  umbrella header "TalkableWrapper.h"
+
+  export *
+  module * { export * }
+}

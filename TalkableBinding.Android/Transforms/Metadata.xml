@@ -1,0 +1,23 @@
+﻿<metadata>
+  <!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+
+  <remove-node path="/api/package[@name='com.talkable.sdk.utils']/class[@name='ApiRequestSerializer']" />
+  <remove-node path="/api/package[@name='com.talkable.sdk.models']/class[@name='EmailOfferShareSerializer']" />
+  <remove-node path="/api/package[@name='com.talkable.sdk.models']/class[@name='AffiliateMemberSerializer']" />
+  <remove-node path="/api/package[@name='com.talkable.sdk.models']/class[@name='EventDeserializer']" />
+  <remove-node path="/api/package[@name='com.talkable.sdk.models']/class[@name='OriginSerializer']" />
+  <remove-node path="/api/package[@name='com.talkable.sdk.models']/class[@name='PurchaseDeserializer']" />
+  <remove-node path="/api/package[@name='com.talkable.sdk.models']/class[@name='PurchaseSerializer']" />
+  <remove-node path="/api/package[@name='com.talkable.sdk.models']/class[@name='VisitorSerializer']" />
+  <remove-node path="/api/package[@name='com.talkable.sdk.models']/class[@name='EventSerializer']" />
+  
+
+
+
+</metadata>

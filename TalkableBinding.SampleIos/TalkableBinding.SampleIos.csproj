@@ -141,6 +141,8 @@
     <ProjectReference Include="..\TalkableBinding.Ios\TalkableBinding.Ios.csproj">
       <Project>{A705F2A0-983E-41BE-AE5E-9548FBCD554A}</Project>
       <Name>TalkableBinding.Ios</Name>
+      <IsAppExtension>false</IsAppExtension>
+      <IsWatchApp>false</IsWatchApp>
     </ProjectReference>
     <ProjectReference Include="..\TalkableBinding.SampleCore\TalkableBinding.SampleCore.csproj">
       <Project>{EEC5327F-C9FC-42BE-87D8-06C7F8488F44}</Project>
